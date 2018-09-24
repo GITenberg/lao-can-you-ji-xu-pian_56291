@@ -1,6 +1,9 @@
 _repo: lao-can-you-ji-xu-pian_56291
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: lao can you ji xu pian
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Liu, E
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28422
     wikipedia: http://zh.wikipedia.org/wiki/%E5%88%98%E9%B9%97
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56291#lao-can-you-ji-xu-pian
 gutenberg_issued: '2018-01-02'
 gutenberg_type: Text
 identifiers:
