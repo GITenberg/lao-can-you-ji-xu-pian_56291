@@ -1,0 +1,28 @@
+_repo: lao-can-you-ji-xu-pian_56291
+_version: 0.0.1
+alternative_title: lao can you ji xu pian
+creator:
+  author:
+    agent_name: Liu, E
+    aliases:
+    - 劉鄂
+    - Liu, O
+    - 劉鶚
+    birthdate: 1857
+    deathdate: 1909
+    gutenberg_agent_id: '28422'
+    url: http://www.gutenberg.org/2009/agents/28422
+    wikipedia: http://zh.wikipedia.org/wiki/%E5%88%98%E9%B9%97
+description: ''
+gutenberg_issued: '2018-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56291'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 老殘遊記續集
+url: http://www.gutenberg.org/ebooks/56291
